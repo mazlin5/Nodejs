@@ -10,11 +10,11 @@ The resources cover a range of topics, including:
   - cache.js
   - server2.js
   
- - data storage
+- data storage
   - database.js
   - aedb_date folder (storage)
  
- - GET/POST HTTP requests (API)
+- GET/POST HTTP requests (API)
   - http.js 
   
 - Performance optimization techniques
