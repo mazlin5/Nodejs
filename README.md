@@ -3,7 +3,7 @@ This repository contains javascript programs I used to strengthen my system-desi
 
 Goals
 
-The goal of this repository is to provide a collection of script to get you started designing and implementing scalable and efficient systems using Node.js. 
+The goal of this repository is to provide a collection of scripts to get you started designing and implementing scalable and efficient systems using Node.js. 
 The resources cover a range of topics, including:
 
 - caching
