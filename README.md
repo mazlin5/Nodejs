@@ -1,5 +1,5 @@
 # Server-Side with Nodejs
-This repository contains some simple javascript programs I used to strengthen my system-design knowledge.
+This repository contains javascript programs I used to strengthen my system-design knowledge.
 
 Goals
 
